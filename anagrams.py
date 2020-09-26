@@ -10,7 +10,7 @@ for an arbitrary list of strings.
 
 # Your name here, and any other people/sources who helped.
 # Give credit where credit is due.
-__author__ = "Tiree help from Erica and John the Coach"
+__author__ = "Tiree help from Erica and John the Coach."
 
 import sys
 
